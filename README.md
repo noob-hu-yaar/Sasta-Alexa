@@ -21,6 +21,9 @@ It can further be made to perform more activities like-
 * Sending Email from one to another account.
 * And many other applications.
 
+One feature that I've included is that the assistant greets me Good Morning,Good Afternoon or so, on the basis of the time it is operated.
+for example- if I run it at 7:00pm, it greets me with a Good Evening.
+
 I hereby attach two videos of the working model-
 1. https://youtu.be/eOHl_PPSRv8
 2. https://youtu.be/L1_0cSnFxuQ

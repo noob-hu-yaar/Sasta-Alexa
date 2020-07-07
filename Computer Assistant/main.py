@@ -49,7 +49,7 @@ def takeCommand():
         print(f"User said: {query}\n")
 
     except Exception as e:
-        print(e)
+        # print(e)
 
         print("Please say that again .. .. ")
         return "None"
@@ -59,7 +59,7 @@ def takeCommand():
 if __name__ == "__main__":
     wishMe()
     if 1:
-    #while True:
+    
         query = takeCommand().lower()
 
         # logic for executing tasks based on query
